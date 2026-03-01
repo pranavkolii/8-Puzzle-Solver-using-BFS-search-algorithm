@@ -10,7 +10,7 @@ The project focuses on finding the optimal path from an initial scrambled state 
 ├── Animate.py                # Pygame visualization script
 ├── Nodes.txt                 # List of all explored states
 ├── NodesInfo.txt             # Table of Node Index, Parent Index, and State
-├── nodePath.txt              # The specific solution path (column-wise)
+├── nodePath.txt              # The specific solution path
 └── README.md                 # Project documentation
 ```
 
