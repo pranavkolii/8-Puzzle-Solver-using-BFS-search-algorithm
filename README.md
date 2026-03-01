@@ -6,12 +6,12 @@ The project focuses on finding the optimal path from an initial scrambled state 
 
 ## 📂 Repository Structure
 ```text
-├── proj1_pranavjagdish_koli.py               # Main BFS solver and file generator
-├── Animate.py                # Pygame visualization script
-├── Nodes.txt                 # List of all explored states
-├── NodesInfo.txt             # Table of Node Index, Parent Index, and State
-├── nodePath.txt              # The specific solution path
-└── README.md                 # Project documentation
+├── proj1_pranavjagdish_koli.py     # Main BFS solver and file generator
+├── Animate.py                      # Pygame visualization script
+├── Nodes.txt                       # List of all explored states
+├── NodesInfo.txt                   # Table of Node Index, Parent Index, and State
+├── nodePath.txt                    # The specific solution path
+└── README.md                       # Project documentation
 ```
 
 ## ⚙️ Installation & Setup
