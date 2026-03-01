@@ -31,9 +31,6 @@ pip install numpy pygame
 mkdir -p ~/Project1
 cd ~/Project1
 git@github.com:pranavkolii/8-Puzzle-Solver-using-BFS-search-algorithm.git
-
-# Install dependencies
-pip install numpy pygame
 ```
 
 ### Run Instructions
