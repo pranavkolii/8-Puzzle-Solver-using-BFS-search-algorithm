@@ -36,6 +36,18 @@ git@github.com:pranavkolii/8-Puzzle-Solver-using-BFS-search-algorithm.git
 pip install numpy pygame
 ```
 
+### Run Instructions
+* Execute the BFS Solver
+```bash
+# Run the solver and generate the output text files
+python3 proj1_pranavjagdish_koli.py
+```
+* Visualize the Result
+```bash
+# Read nodePath.txt and play the animation
+python3 Animate.py
+```
+
 ## Outcomes
 * Implemented the BFS search algorithm capable of solving complex 8-puzzle configurations within the time constraint.
 * Successfully integrated data structures to handle state-space complexity, ensuring unique node exploration and efficient backtracking.
